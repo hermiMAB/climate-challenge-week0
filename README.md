@@ -26,3 +26,4 @@ For each of the five countries, we created four main visual reports:
 
 ##  References
 * NASA POWER Data Access Viewer.
+  * Google Gemini 3.1 Pro: Utilized as an AI programming assistant for code debugging, statistical interpretation, and documentation formatting.
